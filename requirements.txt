@@ -1,0 +1,17 @@
+crewai
+crewai-tools
+langchain
+langchain-ollama
+yfinance
+streamlit
+pandas
+plotly
+scipy
+numpy
+textblob
+pandas-ta
+praw 
+torch
+transformers
+pyyaml
+unstructured
