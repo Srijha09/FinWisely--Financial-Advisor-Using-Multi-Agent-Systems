@@ -99,8 +99,9 @@
    Launch the app using Streamlit:
    ```bash
    streamlit run main.py
-##References
+## References
 - [Introduction to CrewAI](https://docs.crewai.com/introduction)  
 - [CrewAI Examples on GitHub](https://github.com/crewAIInc/crewAI-examples/tree/main)
+- [AI-Powered Financial Analysis: Multi-Agent LLM Systems Transform Data into Insights]([https://github.com/crewAIInc/crewAI-examples/tree/main](https://medium.com/@batuhansenerr/ai-powered-financial-analysis-multi-agent-systems-transform-data-into-insights-d94e4867d75d))
 
 
