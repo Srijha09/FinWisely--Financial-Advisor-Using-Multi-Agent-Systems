@@ -100,6 +100,9 @@
    ```bash
    streamlit run main.py
 
+## References:
+[Link text Here](https://docs.crewai.com/introduction)
+[Link text Here](https://github.com/crewAIInc/crewAI-examples/tree/main)
 
 
 
