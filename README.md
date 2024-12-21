@@ -41,28 +41,6 @@
 - **CrewAI and LangChain**: Multi-agent system implementation for advanced decision-making.
 - **OpenAI**: NLP and advanced AI capabilities.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Srijha09/FinWisely--Financial-Advisor-using-Multi-Agent-Systems.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd FinWisely--Financial-Advisor-using-Multi-Agent-Systems
-   ```
-
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the Streamlit application:
-   ```bash
-   streamlit run app.py
-   ```
-
 ## Usage
 
 1. Launch the Streamlit app.
